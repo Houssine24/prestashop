@@ -1,0 +1,13 @@
+1542106398
+s:1328:"HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 13 Nov 2018 08:53:11 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1017
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"32577","name":"ps_themecusto","displayName":"Theme Customization","categoryName":"Personnalisation de Page","description":"","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/fr\/personnalisation-de-page\/32577-theme-customization.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-FR&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/32577.jpg","fullDescription":"","additionalDescription":"","features":"","customer_benefits":"","demo_video":"","version":"1.0.9","last_update":"2018-11-13 04:59:59","compatibility":{"from":"1.7.0.0","to":"1.7.5.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"R\u00e9alis\u00e9 par PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias2.prestastore.com\/-pprod\/theme-customization.jpg","big":"https:\/\/medias2.prestastore.com\/-pbig\/theme-customization.jpg"}}]}";

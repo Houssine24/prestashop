@@ -1,0 +1,13 @@
+1542106314
+s:2480:"HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 13 Nov 2018 08:51:40 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 2169
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"15283","name":"statssearch","displayName":"Shop search","categoryName":"Analyses & Statistiques","description":"Ajouter un onglet au tableau de bord, affichant les mots-cl&eacute;s les plus recherch&eacute;s par les visiteurs de votre boutique","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/fr\/analyses-statistiques\/15283-shop-search.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-FR&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/15283.jpg","fullDescription":"Ajouter un onglet au tableau de bord, affichant les mots-cl&eacute;s les plus recherch&eacute;s par les visiteurs de votre boutique.","additionalDescription":"Use this native module to:\r\n<ul>\r\n\t<li><strong>Retrieve data:<\/strong> these current values are essential to analyze your business and make it evolve in the right direction.<\/li>\r\n\t<li><strong>Manage your catalog:<\/strong> know your business and follow its evolution, keep an eye on the potential products that could fit your customers&rsquo; needs.<\/li>\r\n<\/ul>\r\n","features":"No need to configure this module, all you have to do is enable or disable it. If enabled, it will be displayed in the &lsquo;Stats&rsquo; section of your back office.<br \/>\r\n<br \/>\r\nThis module allows you to know what items were expected to be found on your store. It is very useful if you want to adjust your catalog according to your visitors&rsquo; feedback. You can do some research based on the period of time that interests you at that point.<br \/>\r\n<br \/>\r\nYou also have the possibility to export it as a CSV file.","customer_benefits":"","demo_video":"","version":"2.0.1","last_update":"2018-11-13 05:00:05","compatibility":{"from":"1.7.1.0","to":"1.7.5.0"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"R\u00e9alis\u00e9 par PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias3.prestastore.com\/1294354-pprod\/shop-search.jpg","big":"https:\/\/medias3.prestastore.com\/1294354-pbig\/shop-search.jpg"}}]}";
